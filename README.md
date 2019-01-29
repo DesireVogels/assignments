@@ -5,3 +5,5 @@ Applied economic analysis
 
 [assignment 1 HTML](https://github.com/DesireVogels/assignments/blob/master/AEA.html)
 
+
+<a href="https://github.com/DesireVogels/assignments/blob/master/AEA.html">Quora profile link for Adam D'Angelo</a>
