@@ -5,8 +5,7 @@ Applied economic analysis
 
 [assignment 1 HTML](https://github.com/DesireVogels/assignments/blob/master/AEA.html)
 
-{::nomarkdown}
-ff
-<!-- https://github.com/DesireVogels/assignments/blob/master/AEA.html-->
 
-{:/}
+
+<a href="https://github.com/DesireVogels/assignments/blob/master/AEA.html" rel="nofollow">Final Assignment</a>
+
